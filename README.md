@@ -27,7 +27,3 @@ Có một file dữ liệu đầu vào bao gồm các nhiệm vụ có liên qua
 
 
 
-
-
-
-Các source code dùng để phân tích sẽ hoàn toàn bằng Python và xuất ra file
